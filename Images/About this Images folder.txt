@@ -1,0 +1,3 @@
+About the PVS.MediaPlayer Images folder
+
+The images in this folder are used in the articles and documents of the PVS.MediaPlayer library.
